@@ -6,11 +6,10 @@
 ---
 
 ## 🌟 주요 기능
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/b40dfa04-76b1-4f5b-a85b-07d65eaf1f39" />
-<img width="940" alt="image" src="https://github.com/user-attachments/assets/600fc3fb-01fc-4121-9752-9f0180137312" />
 
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/8726d693-a05f-46fe-a4a2-224d60f55606" />
-
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/b40dfa04-76b1-4f5b-a85b-07d65eaf1f39" />
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/6784ac99-4940-46d6-bc50-c1d23a482d5c" />
 
 ✅ **익명 로그인**을 통한 개인정보 보호  
 ✅ **블록체인 / IPFS 기반** 파일 관리 
