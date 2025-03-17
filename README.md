@@ -27,7 +27,8 @@
 ---
 
 ## 시나리오
-<img width="1043" alt="image" src="https://github.com/user-attachments/assets/66be8c07-d180-4e56-87d7-fe8063445633" />
+<img width="1126" alt="image" src="https://github.com/user-attachments/assets/ef138f24-face-46d2-bbde-1c8db6e34020" />
+
 
 ## 블록체인 실행 및 UI 화면
 <img width="737" alt="image" src="https://github.com/user-attachments/assets/a95702ec-cb75-4e5a-94aa-7ea9a670a981" />
