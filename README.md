@@ -13,7 +13,7 @@
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/6784ac99-4940-46d6-bc50-c1d23a482d5c" />
 
 ✅ **익명 로그인**을 통한 개인정보 보호  
-✅ **블록체인 / IPFS 기반** 파일 관리 
+✅ **블록체인 / IPFS 기반** 파일 관리
 ✅ **익명으로 파일 요청 및 수락**  
 
 ---
